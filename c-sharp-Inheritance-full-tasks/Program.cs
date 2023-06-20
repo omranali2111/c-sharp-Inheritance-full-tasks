@@ -9,5 +9,8 @@ internal class Program
         dog.MakeNoise();
         dog.Eat();
         Console.WriteLine("_____________________________");
+        Cat cat = new Cat();
+        cat.MakeNoise(); 
+        cat.Eat();
     }
 }
