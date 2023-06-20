@@ -19,7 +19,7 @@ namespace c_sharp_Inheritance_full_tasks
             Height = height;
 
             Console.WriteLine($"the Area of rectangle is:{GetArea()}");
-            Console.WriteLine($"the Area of Perimeter is:{GetPerimeter()}");
+            Console.WriteLine($"the Perimeter of rectangle is:{GetPerimeter()}");
         }
 
         public override double GetArea()

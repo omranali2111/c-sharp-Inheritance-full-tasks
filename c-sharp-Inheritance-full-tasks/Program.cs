@@ -14,5 +14,7 @@ internal class Program
         cat.Eat();
         Console.WriteLine("_____________________________");
         Rectangle r = new Rectangle(2.4,3.5);
+        Console.WriteLine("_____________________________");
+        Circle c=new Circle(2.3);
     }
 }
