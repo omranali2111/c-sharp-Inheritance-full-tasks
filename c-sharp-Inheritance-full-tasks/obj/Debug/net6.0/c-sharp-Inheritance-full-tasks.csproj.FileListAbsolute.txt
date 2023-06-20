@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\bin\Debug\net6.0\c-sharp-Inheritance-full-tasks.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\bin\Debug\net6.0\c-sharp-Inheritance-full-tasks.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\bin\Debug\net6.0\c-sharp-Inheritance-full-tasks.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\bin\Debug\net6.0\c-sharp-Inheritance-full-tasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\bin\Debug\net6.0\c-sharp-Inheritance-full-tasks.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\refint\c-sharp-Inheritance-full-tasks.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\c-sharp-Inheritance-full-tasks.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Inheritance-full-tasks\c-sharp-Inheritance-full-tasks\obj\Debug\net6.0\ref\c-sharp-Inheritance-full-tasks.dll
