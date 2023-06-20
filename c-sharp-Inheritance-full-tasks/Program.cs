@@ -12,5 +12,7 @@ internal class Program
         Cat cat = new Cat();
         cat.MakeNoise(); 
         cat.Eat();
+        Console.WriteLine("_____________________________");
+        Rectangle r = new Rectangle(2.4,3.5);
     }
 }
