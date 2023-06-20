@@ -16,5 +16,8 @@ internal class Program
         Rectangle r = new Rectangle(2.4,3.5);
         Console.WriteLine("_____________________________");
         Circle c=new Circle(2.3);
+        Console.WriteLine("_____________________________");
+        Employee e = new Employee();
+        Console.WriteLine($"The pay for Employee is {e.CalculatePay(6)}");
     }
 }
